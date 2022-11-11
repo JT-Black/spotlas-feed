@@ -15,6 +15,10 @@ A small front end Flutter app that consumes the Spotlas App user feed API. The u
 Feed
 <p style="text-align:center">
 
+
+<center> https://user-images.githubusercontent.com/87031124/201329803-d26421a4-ad72-4ef9-bd43-a055f289da6a.mp4 <center/>
+
+
 </p>
 
 ## Screenshots
@@ -23,5 +27,8 @@ Feed
 <p style="text-align:center">
   <img  src="assets/SpotlasFeed.png">
 </p>
-# spotlas-feed
-# spotlas-feed
+
+### Todos
+I wanted to put the project up with the requested MVP, and so there are a couple stretch goals left to finish.
+- Finish implementing the add and like functionality.
+- Extract the main build method into individual widgets
