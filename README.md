@@ -10,7 +10,7 @@ A small front end Flutter app that consumes the Spotlas App user feed API. The u
 - Install Dependencies
 - In Terminal, type the command: flutter run
 
-### Screen Recording
+## Screen Recording
 
 Feed
 <p style="text-align:center">
@@ -29,7 +29,7 @@ Feed
   <img  src="assets/SpotlasFeed.png">
 </p>
 
-### Todos
+## Todos
 I wanted to put the project up with the requested MVP, and so there are a couple stretch goals left to finish.
 - Finish implementing the add and like functionality.
 - Extract the main build method into individual widgets
